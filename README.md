@@ -16,4 +16,4 @@ Realtime Database
 
 ## Page: 
 
-https://javiluco.github.io/proyecto-angular/#/about
+https://javiluco.github.io/proyecto-angular/#/home
