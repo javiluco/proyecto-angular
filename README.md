@@ -9,3 +9,11 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 ## Node modules
 
 npm i
+
+## Firebase
+
+Realtime Database
+
+## Page: 
+
+https://javiluco.github.io/proyecto-angular/#/about
